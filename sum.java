@@ -6,6 +6,11 @@ int a=sc.nextInt();
 int b=sc.nextInt();
 
 int c=a+b;
-System.out.println(c);
+int m=a * b;
+  
+System.out.println("Addition of two Number "+ c);
+System.out.println("Addition of two Number "+ m);
+
+  
 }
 }
